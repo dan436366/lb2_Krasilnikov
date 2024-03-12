@@ -1,0 +1,15 @@
+D:\study\university2\oop2\2\lb2\lb2\bin\Debug\lb2.exe.config
+D:\study\university2\oop2\2\lb2\lb2\bin\Debug\lb2.exe
+D:\study\university2\oop2\2\lb2\lb2\bin\Debug\lb2.pdb
+D:\study\university2\oop2\2\lb2\lb2\obj\Debug\lb2.csproj.AssemblyReference.cache
+D:\study\university2\oop2\2\lb2\lb2\obj\Debug\MainWindow.g.cs
+D:\study\university2\oop2\2\lb2\lb2\obj\Debug\App.g.cs
+D:\study\university2\oop2\2\lb2\lb2\obj\Debug\lb2_MarkupCompile.cache
+D:\study\university2\oop2\2\lb2\lb2\obj\Debug\lb2_MarkupCompile.lref
+D:\study\university2\oop2\2\lb2\lb2\obj\Debug\MainWindow.baml
+D:\study\university2\oop2\2\lb2\lb2\obj\Debug\lb2.g.resources
+D:\study\university2\oop2\2\lb2\lb2\obj\Debug\lb2.Properties.Resources.resources
+D:\study\university2\oop2\2\lb2\lb2\obj\Debug\lb2.csproj.GenerateResource.cache
+D:\study\university2\oop2\2\lb2\lb2\obj\Debug\lb2.csproj.CoreCompileInputs.cache
+D:\study\university2\oop2\2\lb2\lb2\obj\Debug\lb2.exe
+D:\study\university2\oop2\2\lb2\lb2\obj\Debug\lb2.pdb
